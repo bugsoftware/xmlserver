@@ -318,7 +318,7 @@ msgid "Unable to process cart verification. We apologize but we are unable to co
 msgstr ""
 msgid "The system couldn't check the cancellation charges of the product"
 msgstr ""
-msgid "date of checking"
+msgid "date of checkin"
 msgstr ""
 msgid "days prior to checkin"
 msgstr ""
